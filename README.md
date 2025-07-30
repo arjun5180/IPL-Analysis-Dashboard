@@ -1,37 +1,52 @@
 # 🏏 IPL Analysis Dashboard (2008–2025)
 
-This project provides a comprehensive analysis of IPL (Indian Premier League) data from **2008 to 2025**, built using **Power BI** for interactive visuals.
+I built a season-wise IPL Analysis Dashboard using Power BI, covering all seasons from 2008 to 2025. The dashboard allows interactive filtering by season, revealing key stats, team rankings, and top player performances.
 
-## 📌 Objective
+ # 📊 Tools: Power BI | DAX | Power Query
 
-To visualize team and player performance trends across IPL seasons, and provide summary insights for the latest season (2025).
+# 🔥 2025 Season Highlights:
 
-## 🛠️ Tools Used
-- **Power BI** – for dashboard development and reporting
-- (Optional: SQL / Excel) – for preprocessing or data structuring if used
+🏆 Champion: Royal Challengers Bangalore
 
-## 📊 Key Insights
-- **2025 Champion**: Royal Challengers Bangalore  
-- **Orange Cap**: B Sai Sudharsan (759 Runs, Gujarat Titans)  
-- **Purple Cap**: M Prasidh Krishna (25 Wickets, Gujarat Titans)  
-- Most 4s: B Sai Sudharsan (88)  
-- Most 6s: N Pooran (40, Lucknow Super Giants)  
-- Total Matches: 74 | Teams: 10 | Centuries: 9 | Venues: 14
+🥈 Runner-Up: Punjab Kings
 
-## 📈 Dashboard Features
-- Season selection (2008 to 2025)
-- Team-wise points table with win/loss record
-- Batting and bowling highlights (4s, 6s, 100s, 50s)
-- Player performance breakdowns
-- Aggregated tournament stats (total 4s, 6s, matches, venues)
+🎯 Total Matches: 74 | Teams: 10 | Venues: 14
 
-## 📁 Files
-- `IPL_Analysis_Dashboard.pbix` – Power BI dashboard file
-- `IPL_Analysis_Dashboard.pdf` – Dashboard snapshot
-- `README.md` – Project overview
+💥 1296 Sixes | 🏏 2251 Fours | 💯 9 Centuries | 🧢 152 Half-Centuries
 
-## 🚀 How to Use
-1. Open the `.pbix` file in Power BI Desktop
-2. Use the slicer to explore different seasons
-3. Review key player and team statistics interactively
+# 📈 Top Performers of 2025:
+
+Orange Cap: B Sai Sudharsan – 759 runs (Gujarat Titans)
+
+Purple Cap: M Prasidh Krishna – 25 wickets (Gujarat Titans)
+
+Most 4s: B Sai Sudharsan – 88 boundaries
+
+Most 6s: N Pooran – 40 sixes (Lucknow Super Giants)
+
+# 🧩 Points Table Drilldown:
+
+RCB topped the table with 19 points, followed by Punjab Kings (17)
+
+Filter lets users explore each season’s team standings in real-time
+
+# 🛠️ Key Features:
+
+Season-wise KPIs with slicers
+
+Team logos, player images, and caps
+
+Conditional formatting and card visuals
+
+Power Query data cleanup + DAX measures for dynamic stats
+
+# 📚 Takeaways:
+
+Learned how to create a sports analytics dashboard from scratch
+
+Translated raw match data into insights
+
+Improved UX by adding images, badges & social-style sidebars
+
+
 
